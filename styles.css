@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+  letter-spacing: 1px;
+}
+
+.project-card:hover {
+  background-color: #e6ffe6;
+  transform: scale(1.05);
+  transition: all 0.3s ease-in-out;
+}
+
