@@ -14,7 +14,7 @@
 </script>
 <body class="bg-gray-50 text-gray-800">
 
-  <!-- Hero секција -->
+  <!-- Hero секција --><section data-aos="fade-up">...</section>
   <header class="bg-gradient-to-r from-green-700 to-lime-500 text-white text-center py-20" data-aos="fade-down">
     <h1 class="text-5xl font-bold mb-4">СКОПЈЕ 2050</h1>
     <p class="text-xl mb-6">Град за луѓето, не за елитата</p>
