@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html lang="mk">
-<head><link href="styles.css" rel="stylesheet"> <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>СКОПЈЕ 2050</title>
+
+  <!-- Tailwind CSS -->
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+  <!-- Твој стил -->
   <link href="styles.css" rel="stylesheet">
+
+  <!-- AOS анимации -->
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-  AOS.init();
-</script>
 <body class="bg-gray-50 text-gray-800">
 
-  <!-- Hero секција --><section data-aos="fade-up">...</section>
+  <!-- Hero секција -->
   <header class="bg-gradient-to-r from-green-700 to-lime-500 text-white text-center py-20" data-aos="fade-down">
     <h1 class="text-5xl font-bold mb-4">СКОПЈЕ 2050</h1>
     <p class="text-xl mb-6">Град за луѓето, не за елитата</p>
@@ -67,6 +69,7 @@
     </div>
   </section>
 
+  <!-- AOS скрипта -->
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   <script>
     AOS.init();
